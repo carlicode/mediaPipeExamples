@@ -20,6 +20,6 @@ Instalar opencv
 pip install opencv-python
 ```
 ## Environment
-
+python = 3.9
 For the operation of the project, a working environment has been created in Anaconda.
 
